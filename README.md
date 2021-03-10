@@ -1,2 +1,5 @@
 # hello-world
-Just another repository 
+
+Hi! 
+
+I am Dani and I am a student of the Software Engineering degree and this is an introductory practice to GitHub
